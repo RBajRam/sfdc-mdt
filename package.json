@@ -1,0 +1,17 @@
+{
+    "name": "sfdc-mdt",
+    "version": "0.0.1",
+    "description": "Application Description",
+    "main": "server.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/RBajRam/sfdc-mdt.git"
+    },
+    "dependencies": {
+        "express": "latest",
+        "jsforce": "latest"
+    }
+}
